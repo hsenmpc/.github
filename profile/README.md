@@ -8,4 +8,4 @@
 ## 📬 Contact
 
 - 🌐 Website: [www.hse.ie](https://about.hse.ie/our-work/technology/national-medicinal-product-catalogue-nmpc/)
-- 🍿 Document library: [NMPC Helpdesk](https://launch.nmpc-helpdesk.hse.ie/servicedesk/customer/portal/1)
+- 🍿 NMPC Helpdesk: [NMPC Helpdesk](https://launch.nmpc-helpdesk.hse.ie/servicedesk/customer/portal/1)
