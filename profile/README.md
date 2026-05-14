@@ -1,6 +1,12 @@
 # HSE National Medicinal Product Catalogue
 
-**Enabling integrated medicines management through interopable medicines information**
+**Integrated medicine management means a patient's medicine information can be shared wherever they receive healthcare. The National Medicinal Product Catalogue (NMPC) helps make this possible. It gives healthcare workers 1 clear, standard list of medicine names and codes. Healthcare workers use this list when recording a patient's medicines.
+
+It helps to improve:
+* patient safety
+* patient experience
+* healthcare worker experience
+* how healthcare data is shared**
 
 
 ---
