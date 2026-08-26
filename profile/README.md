@@ -14,4 +14,6 @@ It helps to improve:
 ## 📬 Contact
 
 - 🌐 Website: [www.hse.ie](https://about.hse.ie/our-work/technology/national-medicinal-product-catalogue-nmpc/)
-- 🍿 NMPC Helpdesk: [NMPC Helpdesk](https://launch.nmpc-helpdesk.hse.ie/servicedesk/customer/portal/1)
+- 📬 NMPC Helpdesk: [NMPC Helpdesk](https://nmpc.hse.ie/helpdesk)
+- 🍿 NMPC Browser: [NMPC Browser](https://nmpc.hse.ie/browser)
+- 🔍 NMPC Download & Access: [NMPC Download](https://nmpc.hse.ie/published-content)   
